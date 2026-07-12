@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**Ragul026/Ragul026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Ragul C
 
-Here are some ideas to get you started:
+## 🎓 Final Year Electronics and Communication Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Learning Python
+
+🤖 Interested in AI & Data Science
+
+📚 Currently learning
+- Python
+- SQL
+- Machine Learning
+- Data Analysis
+
+## 🛠 Skills
+
+- Python
+- Excel
+- PowerPoint
+- Canva
+
+## 🌱 Goals
+
+- Become an AI/Data Scientist
+- Build Real Projects
+- Contribute to Open Source
+
+## 📫 Contact
+
+Email: ragulc300@gmail.com
